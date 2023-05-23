@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ApniHealth_Project/static/css/main.210d0f9a.css",
-    "main.js": "/ApniHealth_Project/static/js/main.39dfc075.js",
+    "main.js": "/ApniHealth_Project/static/js/main.f5325758.js",
     "static/media/Hospi.png": "/ApniHealth_Project/static/media/Hospi.6ad42f73d76872236888.png",
     "static/media/Success.gif": "/ApniHealth_Project/static/media/Success.f66bd2dcf36d8e42a3cd.gif",
     "static/media/Teamgoals.png": "/ApniHealth_Project/static/media/Teamgoals.a2bc6010520ce0869a2b.png",
@@ -15,10 +15,10 @@
     "static/media/doc.jpg": "/ApniHealth_Project/static/media/doc.266a646d6696086f1567.jpg",
     "index.html": "/ApniHealth_Project/index.html",
     "main.210d0f9a.css.map": "/ApniHealth_Project/static/css/main.210d0f9a.css.map",
-    "main.39dfc075.js.map": "/ApniHealth_Project/static/js/main.39dfc075.js.map"
+    "main.f5325758.js.map": "/ApniHealth_Project/static/js/main.f5325758.js.map"
   },
   "entrypoints": [
     "static/css/main.210d0f9a.css",
-    "static/js/main.39dfc075.js"
+    "static/js/main.f5325758.js"
   ]
 }
