@@ -1,0 +1,25 @@
+/* .card .card-text{
+    color: rgb(2, 2, 43);
+    font-size: 17px;
+    line-height: 0.8;
+}
+.card .card-text span{
+    color: rgb(4, 4, 80);
+    padding-left: 20px;
+} */
+.docdata table td{
+    color: rgb(2, 2, 43);
+    font-size: 17px;
+    line-height: 0.8;
+    font-weight: 500;
+}
+.docdata i{
+    font-size: 23px;
+    cursor: pointer;
+}
+.docdata .fa-trash-can{
+    color: rgb(165, 9, 9);
+}
+.docdata .fa-pen-to-square{
+    color: rgb(9, 130, 9);
+}
