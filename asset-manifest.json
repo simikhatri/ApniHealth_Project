@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ApniHealth_Project/static/css/main.210d0f9a.css",
+    "main.js": "/ApniHealth_Project/static/js/main.39dfc075.js",
+    "static/media/Hospi.png": "/ApniHealth_Project/static/media/Hospi.6ad42f73d76872236888.png",
+    "static/media/Success.gif": "/ApniHealth_Project/static/media/Success.f66bd2dcf36d8e42a3cd.gif",
+    "static/media/Teamgoals.png": "/ApniHealth_Project/static/media/Teamgoals.a2bc6010520ce0869a2b.png",
+    "static/media/story.gif": "/ApniHealth_Project/static/media/story.bc8a9477cd6fa6a52d85.gif",
+    "static/media/Contact.png": "/ApniHealth_Project/static/media/Contact.8b40b55e2394a9c52c06.png",
+    "static/media/Doctors.png": "/ApniHealth_Project/static/media/Doctors.4cc499cd879a49bc4ac9.png",
+    "static/media/signup.png": "/ApniHealth_Project/static/media/signup.bb1be0a62af71f86982d.png",
+    "static/media/login.png": "/ApniHealth_Project/static/media/login.067873442a197e7f4f53.png",
+    "static/media/Pharma.png": "/ApniHealth_Project/static/media/Pharma.688debefa2c4493adf9c.png",
+    "static/media/logo.png": "/ApniHealth_Project/static/media/logo.12ca6c03698c5bc86485.png",
+    "static/media/doc.jpg": "/ApniHealth_Project/static/media/doc.266a646d6696086f1567.jpg",
+    "index.html": "/ApniHealth_Project/index.html",
+    "main.210d0f9a.css.map": "/ApniHealth_Project/static/css/main.210d0f9a.css.map",
+    "main.39dfc075.js.map": "/ApniHealth_Project/static/js/main.39dfc075.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.210d0f9a.css",
+    "static/js/main.39dfc075.js"
+  ]
+}
